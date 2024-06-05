@@ -22,6 +22,10 @@
 ## Sou apaixonado por tecnologia e programação, com um grande interesse em desenvolver sistemas inovadores e aplicações web dinâmicas. Gosto de explorar novas ferramentas e linguagens de programação, buscando sempre aprimorar minhas habilidades e criar soluções eficientes e elegantes. O desenvolvimento de sistemas e web é onde encontro a oportunidade de combinar criatividade com lógica, resultando em projetos que não apenas funcionam bem, mas também oferecem uma excelente experiência ao usuário.
 
 
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
 
 
 
