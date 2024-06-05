@@ -28,7 +28,7 @@
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-## Sou apaixonado por tecnologia e programação, com um grande interesse em desenvolver sistemas inovadores e aplicações web dinâmicas. Gosto de explorar novas ferramentas e linguagens de programação, buscando sempre aprimorar minhas habilidades e criar soluções eficientes e elegantes. O desenvolvimento de sistemas e web é onde encontro a oportunidade de combinar criatividade com lógica, resultando em projetos que não apenas funcionam bem, mas também oferecem uma excelente experiência ao usuário.
+## I am passionate about technology and programming, with a great interest in developing innovative systems and dynamic web applications. I like exploring new tools and programming languages, always seeking to improve my skills and create efficient and elegant solutions. Systems and web development is where I find the opportunity to combine creativity with logic, resulting in projects that not only work well, but also provide an excellent user experience.
 
 
 <p align="left">
