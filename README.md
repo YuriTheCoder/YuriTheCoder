@@ -3,6 +3,15 @@
 [![Blog](https://img.shields.io/website?label=YuriTheCoder.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://YuriTheCoder.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiborr)
 
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬I'm 16 years old, I currently live in Brazil. I started studying at the beginning of 2024 and I am fluent in English. I have experience with HTML, CSS, Database, I analyze code, I know NodeJs, I also know how to work with servers, carrying out various jobs at SESI and SENAI, which ended up helping me develop important skills such as creativity, communication, marketing, analytical skills, etc.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriTheCoder&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia a dia
