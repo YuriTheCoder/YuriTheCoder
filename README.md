@@ -7,7 +7,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬I'm 16 years old, I currently live in Brazil. I started studying at the beginning of 2024 and I am fluent in English. I have experience with HTML, CSS, Database, I analyze code, I know NodeJs, I also know how to work with servers, carrying out various jobs at SESI and SENAI, which ended up helping me develop important skills such as creativity, communication, marketing, analytical skills, etc.
+  - 💬I'm 16 years old, I currently live in Brazil. I started studying at the beginning of 2024 and I am fluent in English. I have experience with HTML, CSS(Tailwind, Sass and Bootstrap), JS, DB, API, NODEJS I analyze code, I also know how to work with servers, carrying out various jobs at SESI and SENAI, which ended up helping me develop important skills such as creativity, communication, marketing, analytical skills, etc.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
