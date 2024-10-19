@@ -1,6 +1,6 @@
 ## Hi! I'm Yuri Borges 👋
 
-[![Blog](https://img.shields.io/website?label=YuriTheCoder.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://YuriTheCoder.com.br)
+[![Blog](https://img.shields.io/website?label=yuribmartins.dev&style=for-the-badge&url=https://sujeitoprogramador.com)](https://yuribmartins.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuriiborr)
 
 <!-- Dropdown -->
